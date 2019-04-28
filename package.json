@@ -1,0 +1,26 @@
+{
+  "name": "@guivic/fastify-socket.io",
+  "version": "0.0.1",
+  "description": "Fastify socket.io plugin.",
+  "main": "index.js",
+  "repository": "git@github.com:guivic/fastify-socket.io.git",
+  "author": "lludol <ludovic.lerus@guivic.io>",
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint . && tap test.js",
+    "coverage": "npm run test -- --coverage-report=lcov"
+  },
+  "devDependencies": {
+    "@guivic/eslint-config-guivic": "^0.2.0",
+    "eslint": "^5.16.0",
+    "fastify": "^2.3.0",
+    "socket.io": "^2.2.0",
+    "tap": "^13.1.0"
+  },
+  "dependencies": {
+    "fastify-plugin": "^1.5.0"
+  },
+  "peerDependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
