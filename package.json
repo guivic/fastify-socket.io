@@ -22,5 +22,10 @@
   },
   "peerDependencies": {
     "socket.io": "^2.2.0"
-  }
+  },
+  "keywords": [
+    "guivic",
+    "fastify",
+    "socket.io"
+  ]
 }
