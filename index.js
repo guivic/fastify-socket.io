@@ -7,7 +7,7 @@ const SocketIOServer = require('socket.io');
  * @param {Object} options - Plugin's options that will be sent to Socket.io contructor
  * @param {Function} next - Fastify next callback
  */
-function fastiySocketIo(fastify, options, next) {
+function fastifySocketIo(fastify, options, next) {
 	try {
 		const io = new SocketIOServer(fastify.server, options);
 
@@ -19,6 +19,6 @@ function fastiySocketIo(fastify, options, next) {
 	}
 }
 
-module.exports = fastifyPlugin(fastiySocketIo, {
+module.exports = fastifyPlugin(fastifySocketIo, {
 	name: 'fastify-socket.io',
 });
