@@ -15,7 +15,7 @@
     "eslint": "^5.16.0",
     "fastify": "^2.3.0",
     "socket.io": "^2.2.0",
-    "tap": "^13.1.0"
+    "tap": "^14.1.11"
   },
   "dependencies": {
     "fastify-plugin": "^1.5.0"
