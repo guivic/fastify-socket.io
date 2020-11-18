@@ -14,14 +14,14 @@
     "@guivic/eslint-config-guivic": "^0.2.0",
     "eslint": "^6.8.0",
     "fastify": "^2.3.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^3.0.2",
     "tap": "^14.1.11"
   },
   "dependencies": {
     "fastify-plugin": "^1.5.0"
   },
   "peerDependencies": {
-    "socket.io": "^2.2.0"
+    "socket.io": "^3.0.2"
   },
   "keywords": [
     "guivic",
