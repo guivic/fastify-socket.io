@@ -1,8 +1,7 @@
 # @guivic/fastify-socket.io
 [![dependencies status](https://david-dm.org/guivic/fastify-socket.io/status.svg)](https://david-dm.org/guivic/fastify-socket.io#info=dependencies)
 [![dev-dependencies status](https://david-dm.org/guivic/fastify-socket.io/dev-status.svg)](https://david-dm.org/guivic/fastify-socket.io#info=devDependencies)
-[![Build Status](https://travis-ci.org/guivic/fastify-socket.io.svg?branch=master)](https://travis-ci.org/guivic/fastify-socket.io)
-[![npm version](https://badge.fury.io/js/%40guivic%2Ffastify-socket.io.svg)](https://badge.fury.io/js/%40guivic%2Ffastify-socket.io) [![Greenkeeper badge](https://badges.greenkeeper.io/guivic/fastify-socket.io.svg)](https://greenkeeper.io/)
+![Node.js CI](https://github.com/guivic/fastify-socket.io/workflows/Node.js%20CI/badge.svg)
 
 ## Installation
 
