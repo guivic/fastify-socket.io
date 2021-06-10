@@ -9,7 +9,7 @@ const SocketIOServer = require('socket.io');
  */
 function fastifySocketIo(fastify, options, next) {
 	try {
-		const io = new SocketIOServer(fastify.server, options);
+		const io = SocketIOServer(fastify.server, options);
 
 		fastify.decorate('io', io);
 
