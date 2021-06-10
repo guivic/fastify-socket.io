@@ -15,6 +15,7 @@ function fastifySocketIo(fastify, options, next) {
 
 		next();
 	} catch (error) {
+		/* istanbul ignore next */
 		next(error);
 	}
 }
