@@ -18,7 +18,7 @@
     "tap": "^15.0.9"
   },
   "dependencies": {
-    "fastify-plugin": "^3.0.0"
+    "fastify-plugin": "^4.1.0"
   },
   "peerDependencies": {
     "socket.io": "^4.1.2"
