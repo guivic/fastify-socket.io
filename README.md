@@ -1,7 +1,5 @@
 # @guivic/fastify-socket.io
-[![dependencies status](https://david-dm.org/guivic/fastify-socket.io/status.svg)](https://david-dm.org/guivic/fastify-socket.io#info=dependencies)
-[![dev-dependencies status](https://david-dm.org/guivic/fastify-socket.io/dev-status.svg)](https://david-dm.org/guivic/fastify-socket.io#info=devDependencies)
-![Node.js CI](https://github.com/guivic/fastify-socket.io/workflows/Node.js%20CI/badge.svg)
+[![npm version](https://badge.fury.io/js/@guivic%2Ffastify-socket.io.svg)](https://badge.fury.io/js/@guivic%2Ffastify-socket.io)
 
 ## Installation
 
@@ -28,10 +26,6 @@ fastify.get('/', (request, reply) => {
 Socket.io configuration object.
 
 <https://socket.io/docs/server-api>
-
-## Author
-
-Ludovic Lérus from [Guivic](https://guivic.io)
 
 ## License
 
