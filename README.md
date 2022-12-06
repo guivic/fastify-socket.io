@@ -1,5 +1,6 @@
 # @guivic/fastify-socket.io
 [![npm version](https://badge.fury.io/js/@guivic%2Ffastify-socket.io.svg)](https://badge.fury.io/js/@guivic%2Ffastify-socket.io)
+![nodejs workflow](https://github.com/guivic/fastify-socket.io/actions/workflows/nodejs.yml/badge.svg)
 
 ## Installation
 
