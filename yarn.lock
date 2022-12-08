@@ -1101,9 +1101,9 @@ eslint-config-airbnb-base@^15.0.0:
     semver "^6.3.0"
 
 eslint-config-lludol@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-lludol/-/eslint-config-lludol-0.2.0.tgz#f64cc593af8a8918d7c5876e3a5dcb5c88ff7ce6"
-  integrity sha512-RbHr9SWrmIZM6UsGJecQKTxGKuNRDUrgxTvwdwuAOpW5O/HsPTKiXsEn/yDvYKXbgvJ7CoKxdN2/7L9Fwf3fag==
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-lludol/-/eslint-config-lludol-0.2.1.tgz#2a8237f9c8e7f535b7b43a1776d9057cb0c4bc2c"
+  integrity sha512-kMXNNOadCBajuO39TNEsnOG4TijBnpdpv9+4b5y90qNWbCVlwa6DwRS4QpX/wsx93tGlL0ogvMEMpYR3MxzUyw==
   dependencies:
     eslint-config-airbnb-base "^15.0.0"
     eslint-plugin-import "^2.8.0"
